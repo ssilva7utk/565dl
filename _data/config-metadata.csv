@@ -1,16 +1,15 @@
 field,display_name,browse_link,external_link
-Record Title,
-Event Title,
-Event Type,
-Event Date,
-Event Location,
-Event Contributor,
-Event Organizer,
-Poster Creator,
-Poster Type,
-Poster Descriptors,
-File Name,
-File Format,
-File Size,
-Digitization Date,
-Rights Information
+title,Title,
+creator,Creator,
+date,Date Created,
+description,Description,
+subject,Subjects,true
+location,Location
+latitude,Latitude
+longitude,Longitude
+source,Source
+identifier,Source Identifier,,
+type,Type,
+format,Format,
+rights,Rights,
+rightsstatement,Rights Statement,,true
