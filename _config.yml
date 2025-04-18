@@ -20,12 +20,12 @@ source-code: https://github.com/ssilva7utk/565dl
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: 565 DL Test 
+title: ST Prototype 
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Recipe Collection
+tagline: Squires Theatre Posters
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "A collection of digitized recipes clipped from magazines"
+description: "A collection of digitized posters from productions at the Squires Theatre at Virginia Tech"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: CollectionBuilder
 
