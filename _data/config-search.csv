@@ -1,7 +1,7 @@
 field,index,display
-title,true,true
-date,true,true
-creator,true,false
-description,true,true
-subject,true,true
-location,true,false
+RecordTitle,true,true
+EventTitle,true,true
+EventContributor,true,true
+PosterType,true,true
+PosterDescriptors,true,true
+EventLocation,true,true
